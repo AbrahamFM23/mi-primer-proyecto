@@ -1,1 +1,2 @@
 Aprendiendo a utilizar git y ver como funciona cada comando para aprenderlo
+Segunda linea de mi nota: Ya estamos dominando este apartado
